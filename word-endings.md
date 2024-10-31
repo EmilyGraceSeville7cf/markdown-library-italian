@@ -1,0 +1,79 @@
+# 📚 Word endings
+
+## 📖 Verbs with **are** ending
+
+- parl**are** - to speak
+  - io parl**o** - I speak
+  - tu parl**i** - you speak (singular)
+  - lui parl**a** - he speaks
+  - lei parl**a** - she speak
+  - Lei parl**a** - you speak (respectful)
+  - noi parl**iamo** - we speak
+  - voi parl**ate** - you speak (plural)
+  - loro parl**ano** - they speak
+- mangi**are** - to eat
+  - io mangi**o** - I eat
+  - tu mangi**i** - you eat (singular)
+  - lui mangi**a** - he eats
+  - lei mangi**a** - she eat
+  - Lei mangi**a** - you eat (respectful)
+  - noi mangi**iamo** - we eat
+  - voi mangi**ate** - you eat (plural)
+  - loro mangi**ano** - they eat
+- guard**are** - to look
+  - io guard**o** - I look
+  - tu guard**i** - you look (singular)
+  - lui guard**a** - he looks
+  - lei guard**a** - she look
+  - Lei guard**a** - you look (respectful)
+  - noi guard**iamo** - we look
+  - voi guard**ate** - you look (plural)
+  - loro guard**ano** - they look
+- gioc**are** - to play
+  - io gioc**o** - I play
+  - tu gioch**i** - you play (singular)
+  - lui gioc**a** - he plays
+  - lei gioc**a** - she play
+  - Lei gioc**a** - you play (respectful)
+  - noi gioc**iamo** - we play
+  - voi gioc**ate** - you play (plural)
+  - loro gioc**ano** - they play
+- ascolt**are** - to listen
+  - io ascolt**o** - I listen
+  - tu ascolth**i** - you listen (singular)
+  - lui ascolt**a** - he listens
+  - lei ascolt**a** - she listen
+  - Lei ascolt**a** - you listen (respectful)
+  - noi ascolt**iamo** - we listen
+  - voi ascolt**ate** - you listen (plural)
+  - loro ascolt**ano** - they listen
+- impar**are** - to learn
+  - io impar**o** - I learn
+  - tu imparh**i** - you learn (singular)
+  - lui impar**a** - he learns
+  - lei impar**a** - she learn
+  - Lei impar**a** - you learn (respectful)
+  - noi impar**iamo** - we learn
+  - voi impar**ate** - you learn (plural)
+  - loro impar**ano** - they learn
+- abit**are** - to live
+  - io abit**o** - I live
+  - tu abith**i** - you live (singular)
+  - lui abit**a** - he lives
+  - lei abit**a** - she live
+  - Lei abit**a** - you live (respectful)
+  - noi abit**iamo** - we live
+  - voi abit**ate** - you live (plural)
+  - loro abit**ano** - they live
+
+## 📖 Exceptions
+
+- avere - to have
+  - io h**o** - I have
+  - tu h**ai** - you have (singular)
+  - lui h**a** - he has
+  - lei h**a** - she has
+  - Lei h**a** - you have (respectful)
+  - noi abb**iamo** - we have
+  - voi av**ete** - you have (plural)
+  - loro hanno - they have
